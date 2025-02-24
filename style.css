@@ -1,0 +1,29 @@
+table{
+    color: rebeccapurple;   
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+.styled-button {
+    background-color: #007BFF; /* Blue */
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: backsground-color 0.3s ease;
+}
+
+.styled-button:hover {
+    background-color: #0056b3; /* Darker Blue */
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: lightskyblue;
+}
